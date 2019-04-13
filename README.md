@@ -1,2 +1,13 @@
 # ust-machine-learning-project
-St. Thomas Machine Learning Class Project
+
+### University of St. Thomas Data Science M.S. Program
+
+### Machine Learning Class Project
+
+#### Group Members
+| Name | github |
+| ---- | ------ |
+|      |        |
+| Logan Butler | [lbutlr093](https://github.com/lbutlr093) |
+|      |        |
+|      |        |
