@@ -1,8 +1,6 @@
 # ust-machine-learning-project
 
-### University of St. Thomas Data Science M.S. Program
-
-### Machine Learning Class Project
+#### University of St. Thomas (Data Science M.S. Program) - Machine Learning Class Project
 
 #### Group Members
 | Name | github |
