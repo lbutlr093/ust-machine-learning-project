@@ -6,6 +6,6 @@
 | Name | github |
 | ---- | ------ |
 |      |        |
-| Logan Butler | [lbutlr093](https://github.com/lbutlr093) |
-|      |        |
+| Logan Butler  | [lbutlr093](https://github.com/lbutlr093) |
+|   Yee Lee     | [overwear](https://github.com/overwear)   |
 |      |        |
