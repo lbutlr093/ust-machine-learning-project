@@ -1,2 +1,5 @@
 # ignore all nfl data files
 season20*.csv
+
+# ignore notbook checkpoints
+.ipynb_checkpoints/
