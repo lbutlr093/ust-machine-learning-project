@@ -3,3 +3,6 @@ season20*.csv
 
 # ignore notbook checkpoints
 .ipynb_checkpoints/
+
+data*
+merged_data*
