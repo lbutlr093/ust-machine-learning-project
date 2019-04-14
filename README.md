@@ -11,7 +11,7 @@
 | Rijesh Kumar  | [rijesh4](https://github.com/rijesh4)     |
 
 ## Project Proposal
-NFL Game Play Prediction
+#### NFL Game Play Prediction
 
 Our team will be working with NFL data. This dataset comes from Kaggle, where it was originally scraped using an API hosted by the NFL, for the years 2009 to 2018. The raw dataset has 103 attributes with over 250,000 instances with each instance representing a single play. The dataset consists of 4 types of variables. Examples of these types include: yardln (yard line the play starts on - numerical continuous), playtype (run, pass, kick - categorical nominal), pass type (short, deep - categorical binary), and timeunder (remaining time in the quarter - numerical discrete).
 
