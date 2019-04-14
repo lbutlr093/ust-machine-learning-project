@@ -8,4 +8,5 @@
 |      |        |
 | Logan Butler  | [lbutlr093](https://github.com/lbutlr093) |
 |   Yee Lee     | [overwear](https://github.com/overwear)   |
+| Rijesh Kumar  | [rijesh4](https://github.com/rijesh4)     |
 |      |        |
