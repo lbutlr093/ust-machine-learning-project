@@ -33,5 +33,5 @@ Download the following files:
 
 * cd to the directory where the files are downloaded. 
 * run: Jupyter notebook -> Select the NFL_Prediction.ipynb
-* Shift+Enter the different sections to run, or 
+* Shift+Enter the different sections to run.
 
