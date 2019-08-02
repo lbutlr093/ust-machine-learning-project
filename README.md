@@ -20,7 +20,7 @@ Download the following files:
 
 * NFL_Prediction.ipynb
 * nfl_data.csv
-* * nfl_data.csv too large to store in Github
+  * nfl_data.csv too large to store in Github
 
 
 ### Setup
